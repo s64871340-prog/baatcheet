@@ -1,0 +1,6 @@
+{
+  "name": "Caliber Climb",
+  "description": "Fast-paced 10-tier arcade Gun Game arena shooter with escalating weaponry, tactical cover, and procedural audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
